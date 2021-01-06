@@ -1,5 +1,5 @@
 # CP-Solutions
- A collection of my solutions to online judges.
+ A collection of my solutions to online judges. *Exemplar solutions below*
 
 Generally, C++ solutions are higher quality than Java solutions. 
 
